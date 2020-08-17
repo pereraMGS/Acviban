@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">MAD</string>
+    <string name="logo">LOGO</string>
+    <string name="menu">menu</string>
+    <string name="search">search</string>
+    <string name="onee">one</string>
+    <string name="new_arrivals">NEW ARRIVALS</string>
+    <string name="women">WOMEN</string>
+    <string name="add">ADD</string>
+    <string name="rs_1750">Rs.1750/-</string>
+    <string name="bag_3_items">BAG(3 items)</string>
+    <string name="d1">d1</string>
+    <string name="d2">d2</string>
+    <string name="d3">d3</string>
+    <string name="edit">edit</string>
+    <string name="delete">delete</string>
+    <string name="tex1">tex1</string>
+    <string name="tex2">tex2</string>
+    <string name="tex3">tex3</string>
+    <string name="tex4">tex4</string>
+    <string name="tex5">tex5</string>
+    <string name="tex6">tex6</string>
+    <string name="tex7">tex7</string>
+    <string name="tex8">tex8</string>
+    <string name="tex9">tex9</string>
+    <string name="tex10">tex10</string>
+    <string name="tex11">tex11</string>
+    <string name="tex12">tex12</string>
+    <string name="size_s_m_l_xl_xxl">Size : S,M,L,XL,XXL</string>
+    <string name="price_4750">Price : 4750/-</string>
+    <string name="color_yellow_white_black">Color : Yellow, White,Black</string>
+    <string name="lover_girl_dress">Lover girl dress</string>
+    <string name="linen_top">Linen Top</string>
+    <string name="sleavless_dress">Sleavless Dress</string>
+    <string name="color_blue">Color : Blue</string>
+    <string name="size_xl">Size : XL</string>
+    <string name="color_white_black">Color : white_black</string>
+    <string name="size_m">Size : M</string>
+    <string name="color_yellow">Color : Yellow</string>
+    <string name="size_s">Size : S</string>
+    <string name="rs_0">Rs.0</string>
+    <string name="yellow">Yellow</string>
+    <string name="textview">TextView</string>
+    <string name="blue">Blue</string>
+    <string name="white">White</string>
+    <string name="saveButton">save button</string>
+    <string name="image10">image10</string>
+    <string name="cart">cart</string>
+    <string name="add1">add1</string>
+    <string name="add2">add2</string>
+    <string name="add3">add3</string>
+
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView6" type="id" />
+    <item name="imageView10" type="id" />
+    <item name="textView25" type="id" />
+    <item name="radioButton" type="id" />
+    <item name="textView24" type="id" />
+    <item name="textView23" type="id" />
+    <item name="radioButton2" type="id" />
+    <item name="spinner" type="id" />
+</resources>
